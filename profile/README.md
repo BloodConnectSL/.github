@@ -6,7 +6,7 @@ Added: Initial Organization Profile README
 <div align="center">
   <h1>🩸 BloodConnectSL</h1>
   <p><b>A decentralized, community-driven blood donation management ecosystem for Sri Lanka.</b></p>
-  <p><i>100% Free. 100% Non-Profit. 100% Open Source.</i></p>
+  <p><i>100% Free. 100% Non-Profit.</i></p>
 </div>
 
 ## 🌟 Our Mission
