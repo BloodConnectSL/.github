@@ -4,21 +4,21 @@ Date: 2026-08-01
 Added: Initial Organization Profile README
 -->
 <div align="center">
-  <h1>🩸 BloodConnectSL</h1>
+  <h1>🩸 Prana (ප්‍රාණ)</h1>
   <p><b>A decentralized, community-driven blood donation management ecosystem for Sri Lanka.</b></p>
   <p><i>100% Free. 100% Non-Profit.</i></p>
 </div>
 
 ## 🌟 Our Mission
-Most blood donation camps in Sri Lanka are organized by independent community groups, creating massive information asymmetry for donors who want to help. BloodConnectSL bridges that gap with a unified, hyper-local digital ecosystem. We empower NGOs, Hospitals, and Donors to connect instantly, reducing blood wastage and ensuring life-saving logistics are highly optimized.
+Most blood donation camps in Sri Lanka are organized by independent community groups, creating massive information asymmetry for donors who want to help. Prana (ප්‍රාණ) bridges that gap with a unified, hyper-local digital ecosystem. We empower NGOs, Hospitals, and Donors to connect instantly, reducing blood wastage and ensuring life-saving logistics are highly optimized.
 
 ## 🏗️ Architecture & Core Repositories
 Our system is built using enterprise-grade Clean Architecture principles, ensuring massive scalability and strict adherence to the **Sri Lanka Personal Data Protection Act (PDPA)**.
 
-- 📱 **[mobile-app](https://github.com/BloodConnectSL/mobile-app)**: The Flutter-based donor client. Features PostGIS geospatial camp discovery and dynamic QR authentication.
-- ⚙️ **[common-app-backend](https://github.com/BloodConnectSL/common-app-backend)**: Highly concurrent Go (Golang) microservice handling complex business logic and Apache Casbin RBAC.
-- 🗄️ **[database](https://github.com/BloodConnectSL/database)**: Supabase PostgreSQL instance utilizing strict Row Level Security (RLS) policies at the kernel level for maximum data privacy.
-- 🖥️ **[web-dashboard](https://github.com/BloodConnectSL/web-dashboard)**: Administrative React/Next.js portal for event management and clinical verifications.
+- 📱 **[mobile-app](https://github.com/Prana (ප්‍රාණ)/mobile-app)**: The Flutter-based donor client. Features PostGIS geospatial camp discovery and dynamic QR authentication.
+- ⚙️ **[common-app-backend](https://github.com/Prana (ප්‍රාණ)/common-app-backend)**: Highly concurrent Go (Golang) microservice handling complex business logic and Apache Casbin RBAC.
+- 🗄️ **[database](https://github.com/Prana (ප්‍රාණ)/database)**: Supabase PostgreSQL instance utilizing strict Row Level Security (RLS) policies at the kernel level for maximum data privacy.
+- 🖥️ **[web-dashboard](https://github.com/Prana (ප්‍රාණ)/web-dashboard)**: Administrative React/Next.js portal for event management and clinical verifications.
 
 ## 🤝 Contributing
 We strictly enforce an enterprise CI/CD pipeline. 
